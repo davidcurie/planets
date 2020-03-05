@@ -2,4 +2,5 @@ Cold and dry, but everything is my favorite color
 The two moons may be a problem for Wolfman
 But the Mummy will appreciate the lack of humidity
 An ill-advised idea
-This a new line to conflict with Derek
+This a new line to conflict with Derek. I kept this in by manually editing this file in nano.
+Derek's Change
