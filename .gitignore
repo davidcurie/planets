@@ -1,2 +1,3 @@
 *.dat
+!all.dat
 results/
